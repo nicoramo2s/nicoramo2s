@@ -100,10 +100,13 @@ public class DarioRamos implements BackendDeveloper {
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoramo2s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D2147&title_color=5DADE2&icon_color=2E86C1&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoramo2s&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D2147&title_color=5DADE2&text_color=FFFFFF"/>
-
+ 
+<img src="https://streak-stats.demolab.com?user=nicoramo2s&theme=tokyonight&hide_border=true&background=0D2147&ring=2E86C1&fire=5DADE2&currStreakLabel=5DADE2&sideLabels=85C1E9&dates=85C1E9&stroke=1B4F8A" alt="GitHub Streak"/>
+ 
+<br/><br/>
+ 
+![Profile views](https://komarev.com/ghpvc/?username=nicoramo2s&style=for-the-badge&color=1B4F8A&label=Visitas+al+perfil)
+ 
 </div>
 
 ---
